@@ -295,8 +295,6 @@ while True:
             frame_count = 0
             count_yawn = 0
             
-        # BPM DETECTION (BLUETOOTH)
-
 #------------------------------------------------------------------------------------------------------------
             
     # Write the frame into the file 'output.avi'
