@@ -14,6 +14,9 @@ https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv
 - After connecting the camera to the Raspberry Pi, clone the visual_detection folder onto the Pi
 - From terminal, browse to where the folder is cloned & run the following command:
 - *python detect_drowsiness.py --shape-predictor shape_predictor_68_face_landmarks.dat --alarm alarm.wav*
+- ***Other .py in this folder include***
+  - *ear_detection*: This code will only detect, measure and display the eye-aspect ratio
+  - *mar_detection*: This code will only detect, measure and display the mouth-aspect ratio
 
 ## Results
 - The result of this code will open a video stream and display:
