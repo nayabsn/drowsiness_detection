@@ -10,7 +10,13 @@ https://www.youtube.com/watch?v=LREOsIXPoLY
 - Arduino Uno
 - Raspberry Pi 4
 - Force Sensitive Resistor - Long SEN-09674
-- Connection --> 
+- Breadboard
+- 3.3K Ohm Resistor
+- Connection:
+
+![image](https://user-images.githubusercontent.com/60349507/122548295-375a0f00-d042-11eb-83b3-bf99561bd5b6.png)
+
+<img width="463" alt="Screen Shot 2021-06-18 at 2 20 58 PM" src="https://user-images.githubusercontent.com/60349507/122547035-a9315900-d040-11eb-941c-bf5d9f12bc8f.png">
 
 ## Using the Code
 - Install Arduino on the Raspberry Pi 
@@ -21,6 +27,7 @@ https://www.youtube.com/watch?v=LREOsIXPoLY
 
 ## Results
 - You can display the plotter to visualize the results - this will return the amount of force applied to your resistor
-- Results --> 
+- Results:
+-
 ![image](https://user-images.githubusercontent.com/60349507/122546810-63749080-d040-11eb-86d2-52e82e558a97.png)
 
