@@ -1,5 +1,5 @@
-# VISUAL DROWSINESS DETECTION
-This code allows to detect drowsiness using facial features - eye blinking + yawning
+# VISUAL DROWSINESS DETECTION USING RASPBERRY PI
+This code allows to detect drowsiness using facial features - eye blinking + yawning using Raspberry Pi
 
 ## Referenced Code
 https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv
