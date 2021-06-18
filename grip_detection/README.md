@@ -13,6 +13,9 @@ https://www.youtube.com/watch?v=LREOsIXPoLY
 - Breadboard
 - 3.3K Ohm Resistor
 - Connection:
+  - The sensor connects to a 3.3k resistor on one side, and to 5V on the Arduino on the other
+  - The 3.3k resistor connects to the sensor on one side, and to GND on the Arduino on the other
+  - The sensor also connects to pin A0 before the resistor
 
 ![image](https://user-images.githubusercontent.com/60349507/122548295-375a0f00-d042-11eb-83b3-bf99561bd5b6.png)
 
