@@ -31,6 +31,6 @@ https://www.youtube.com/watch?v=LREOsIXPoLY
 ## Results
 - You can display the plotter to visualize the results - this will return the amount of force applied to your resistor
 - Results:
--
+
 ![image](https://user-images.githubusercontent.com/60349507/122546810-63749080-d040-11eb-86d2-52e82e558a97.png)
 
