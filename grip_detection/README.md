@@ -1,1 +1,3 @@
-# Grip Detection Using Arduino + Raspberry Pi
+# GRIP DETECTION USING ARDUINO + RASPBERRY PI
+
+
