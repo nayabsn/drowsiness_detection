@@ -2,7 +2,8 @@
 This code allows to detect drowsiness using facial features - eye blinking + yawning using Raspberry Pi
 
 ## Referenced Code
-https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv
+- https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv
+- https://www.pyimagesearch.com/2017/10/23/raspberry-pi-facial-landmarks-drowsiness-detection-with-opencv-and-dlib/
 
 ## Hardware Connection
 **Hardware Needed:**
