@@ -6,6 +6,7 @@ This code allows to detect the driver's BPM using the Polar H10 wireless sensor 
 - https://www.linuxquestions.org/questions/programming-9/python-os-system-function-howto-use-python-variables-572485/![image](https://user-images.githubusercontent.com/60349507/122549579-b4d24f00-d043-11eb-91b9-51c051afe09c.png)
 - https://medium.com/swlh/creating-an-accelerometer-data-stream-with-polar-device-450a223f5789![image](https://user-images.githubusercontent.com/60349507/122549621-bef44d80-d043-11eb-870c-0448cd811e22.png)
 - https://github.com/peplin/pygatt
+- https://github.com/danielfppps/hbpimon
 
 ## Hardware Connection
 **Hardware Needed:**
