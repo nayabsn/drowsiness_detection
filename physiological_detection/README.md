@@ -7,6 +7,7 @@ This code allows to detect the driver's BPM using the Polar H10 wireless sensor 
 - https://medium.com/swlh/creating-an-accelerometer-data-stream-with-polar-device-450a223f5789![image](https://user-images.githubusercontent.com/60349507/122549621-bef44d80-d043-11eb-870c-0448cd811e22.png)
 - https://github.com/peplin/pygatt
 - https://github.com/danielfppps/hbpimon
+- https://github.com/pareeknikhil/biofeedback
 
 ## Hardware Connection
 **Hardware Needed:**
